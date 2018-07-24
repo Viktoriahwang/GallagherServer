@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoriahwang/GallagherServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktoriahwang/GallagherServer/issues"
+  },
+  "homepage": "https://github.com/Viktoriahwang/GallagherServer#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
